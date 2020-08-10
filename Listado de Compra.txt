@@ -2,3 +2,6 @@ Carne
 Sopa
 Harina
 Carne
+Arroz
+Lechuga
+Tomate
