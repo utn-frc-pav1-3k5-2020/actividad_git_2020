@@ -5,3 +5,5 @@ Carne
 Arroz
 Lechuga
 Tomate
+Milanesa
+Pimiento
